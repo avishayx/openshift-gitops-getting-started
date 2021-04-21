@@ -52,7 +52,7 @@ Enter the following details and click on **Create**.
 * Application Name: `cluster-configs`
 * Project: `default`
 * Sync Policy: `Manual`
-* Repository URL: `https://github.com/siamaksade/openshift-gitops-getting-started`
+* Repository URL: `https://github.com/avishayx/openshift-gitops-getting-started`
 * Revision: `HEAD`
 * Path: `cluster`
 * Destination: `https://kubernetes.default.svc`
